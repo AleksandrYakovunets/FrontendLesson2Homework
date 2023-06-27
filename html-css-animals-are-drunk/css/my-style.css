@@ -1,0 +1,39 @@
+body{
+    width: 100%;
+    background: url(../images/panda-background.avif) repeat fixed;
+    margin: 0 auto;
+    font-size: 12pt;
+}
+main, footer{
+    width: 75%;
+    margin: 0 auto;
+    background: #F8FAFB;
+    opacity: 0.98;
+    padding: 10px;
+}
+div, p{
+    margin-bottom: 20px;
+    font-size: 12pt !important;
+    text-indent: 30px;
+    text-align: justify;
+}
+h2{
+    color: red !important;
+    padding-top: 30px;
+}
+.subheader{
+    text-decoration: underline;
+    font-style: normal;
+}
+#panda{
+    float: left;
+    margin: 10px 20px;
+}
+.intro{
+    font-style: normal;
+    margin-top: 30px;
+    text-decoration: none;
+}
+.main-text{
+    color: #000000 !important;
+}
